@@ -23,7 +23,7 @@
   </a>
    &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/react?logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React?logo=react&logoColor=white"/>
   </a>
 </p>
 
