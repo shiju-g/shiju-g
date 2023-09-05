@@ -23,15 +23,15 @@
   </a>
    &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/React_JS-v18.0.0-blue.svg"/>
+    <img alt="React" src="https://img.shields.io/badge/React_JS-blue.svg"/>
   </a>
    &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/Next_JS-v18.0.0-white.svg"/>
+    <img alt="React" src="https://img.shields.io/badge/Next_JS-white.svg"/>
   </a>
    &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/React_Native-v18.0.0-blue.svg"/>
+    <img alt="React" src="https://img.shields.io/badge/React_Native-blue.svg"/>
   </a>
 </p>
 
