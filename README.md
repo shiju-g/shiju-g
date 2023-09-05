@@ -23,7 +23,15 @@
   </a>
    &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/React?logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React_JS-v18.0.0-blue.svg"/>
+  </a>
+   &emsp;
+  <a>
+    <img alt="React" src="https://img.shields.io/badge/Next_JS-v18.0.0-white.svg"/>
+  </a>
+   &emsp;
+  <a>
+    <img alt="React" src="https://img.shields.io/badge/React_Native-v18.0.0-blue.svg"/>
   </a>
 </p>
 
